@@ -5,7 +5,7 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: #f5f6f7;
+    color: #ff0000;
 }
 
 p {
@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #191970; /* Dark Shade of Blue */
     color: #ffffff;
 }
 
@@ -81,3 +81,16 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+.background {
+    background-image: url(https://elements-video-cover-images-0.imgix.net/files/233207927/Night+Ocean+Realistic-A590x332.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=4115e5473a492d07787ca58ad0621c0e);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position: center;
+    background-color: black;
+}
+
+.card-colors {
+    background-color: #5F9EA0;
+}
+
